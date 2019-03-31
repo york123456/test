@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-
+//123456
 void main(void)
 
 	int num[4], ans[4], i, j, k,o,r,a=-1,b,n;
