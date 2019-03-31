@@ -3,7 +3,7 @@
 #include<time.h>
 
 void main(void)
-{
+
 	int num[4], ans[4], i, j, k,o,r,a=-1,b,n;
 	srand(time(NULL));
 	r = 0;
